@@ -18,34 +18,45 @@ A video demo of the the theme can be viewed [here](https://streamable.com/3qjxn)
 
 ### Quick install
 
-1. Copy "Nizos Night Theme.bin" to Streamlabs Chatbot's styles directory: `%HOMEDRIVE%%HOMEPATH%/AppData/Roaming/Streamlabs/Streamlabs Chatbot/Services/Twitch/Settings/Styles`.
+1. Copy [Nizos Night Theme.bin](https://github.com/Nizars/Nizos-Night-Theme/raw/master/theme/Nizos%20Night%20Theme.bin) to Streamlabs Chatbot's Styles directory:
 
-2. Set the style to Nizos Night Theme in the style menu under settings in the Streamlabs Chatbot application.
+    ```%HOMEDRIVE%%HOMEPATH%/AppData/Roaming/Streamlabs/Streamlabs Chatbot/Services/Twitch/Settings/Styles```
+
+2. Set it as the active style in Streamlabs Chatbot.
 
 ### Step by step install
 
-1. Download `Nizos Night Theme.bin` from `/theme`.
+1. Download [Nizos Night Theme.bin](https://github.com/Nizars/Nizos-Night-Theme/raw/master/theme/Nizos%20Night%20Theme.bin).
 
-2. Navigate to the styles directory inside Streamlabs Chatbot install directory:
+2. Copy the downloaded `Nizos Night Theme.bin` file to the Streamlabs Chatbot's Styles directory:
+
     - Mothod 1:
-      - This is generally `c:/Users/USER_NAME/AppData/Roaming/Streamlabs/Stramlabs Chatbot/Services/Twitch/Settings/Styles`.
 
-      - Note: Replace `USER_NAME` with your windows `user`.
+      1. Use the following path in Windows Explorer to open the Styles folder:
+
+          ```%HOMEDRIVE%%HOMEPATH%/AppData/Roaming/Streamlabs/Streamlabs Chatbot/Services/Twitch/Settings/Styles```
+
+      2. Move `Nizos Night Theme.bin` to the opened folder.
 
     - Mothod 2:
-      - Use the following path in Explorer to go there immediately: `%HOMEDRIVE%%HOMEPATH%/AppData/Roaming/Streamlabs/Streamlabs Chatbot/Services/Twitch/Settings/Styles`.
 
-3. copy `Nizos Night Theme.bin` to the styles Directory.
+      1. Replace `USER_NAME` with your Windows `user` in the following path:
 
-4. Run Streamlabs Chatbot.
+          ```C:/Users/USER_NAME/AppData/Roaming/Streamlabs/Stramlabs Chatbot/Services/Twitch/Settings/Styles```
 
-5. Click the settings icon (cogwheel bottom left).
+      2. Open the adjusted path in Windows Explorer.
 
-6. Navigate to the Style page from the side bar.
+      3. Move `Nizos Night Theme.bin` to the opened folder.
 
-7. Select `Nizos Night Theme` from the Style drop down menu.
+3. Launch Streamlabs Chatbot.
 
-8. Enjoy!
+4. Click the settings icon (cogwheel bottom left).
+
+5. Click on Style in the side bar.
+
+6. Select `Nizos Night Theme` from the Style drop down menu.
+
+7. Enjoy!
 
 ### Video guide
 
